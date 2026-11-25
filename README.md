@@ -119,7 +119,7 @@ Fresh reviews → Sentiment prediction → Complaint tagging → Customer follow
 | [Historical reviews](data/historical_reviews.tsv) | Labeled reviews used for model development |
 | [Fresh reviews](data/fresh_reviews.tsv) | Unlabeled reviews used for batch prediction |
 | [Prediction results](results/predicted_reviews.csv) | Fresh reviews with predicted sentiment labels |
-| `sentiment_analysis_model` and `sentiment_analysis_bow` | Saved classifier and fitted text vectorizer |
+| [Saved model](models/sentiment_analysis_model), [vectorizer](models/sentiment_analysis_bow), and [model name](models/model_info) | Saved classifier and fitted text vectorizer |
 
 ---
 
