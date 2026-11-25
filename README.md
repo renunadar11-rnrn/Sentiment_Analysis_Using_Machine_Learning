@@ -116,8 +116,8 @@ Fresh reviews → Sentiment prediction → Complaint tagging → Customer follow
 | --- | --- |
 | [Training notebook](sentiment_model_training.ipynb) | Text preparation, model comparison, and evaluation |
 | [Prediction notebook](fresh_reviews_prediction.ipynb) | Batch prediction and complaint-theme analysis |
-| [Historical reviews](historical_reviews.tsv) | Labeled reviews used for model development |
-| [Fresh reviews](fresh_reviews.tsv) | Unlabeled reviews used for batch prediction |
+| [Historical reviews](data/historical_reviews.tsv) | Labeled reviews used for model development |
+| [Fresh reviews](data/fresh_reviews.tsv) | Unlabeled reviews used for batch prediction |
 | [Prediction results](predicted_reviews.csv) | Fresh reviews with predicted sentiment labels |
 | `sentiment_analysis_model` and `sentiment_analysis_bow` | Saved classifier and fitted text vectorizer |
 
