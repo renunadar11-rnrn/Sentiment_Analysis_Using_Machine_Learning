@@ -120,7 +120,6 @@ Fresh reviews → Sentiment prediction → Complaint tagging → Customer follow
 | [Fresh reviews](fresh_reviews.tsv) | Unlabeled reviews used for batch prediction |
 | [Prediction results](predicted_reviews.csv) | Fresh reviews with predicted sentiment labels |
 | `sentiment_analysis_model` and `sentiment_analysis_bow` | Saved classifier and fitted text vectorizer |
-| [Project report](ABC_Restaurant_Sentiment_Analysis_Report.docx.docx) | Detailed methodology, findings, and recommendations |
 
 ---
 
